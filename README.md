@@ -4,16 +4,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and
-quick hacks.\
-👨🏻‍💻 &nbsp;Currently working as a `Software Engineer`.\
-🎓 &nbsp;Bachelor's degree in IT and Associate's degree in `Computer Science`.\
-🌱 &nbsp;I am currently looking to learn more about blockchain and eventually
-work as a `Blockchain developer`.\
-✍️ &nbsp;In my free time, I like to travel to try different kinds of food plates
-around the world.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering services,
-or just for some interesting discussion.
+💡 &nbsp;I love messing around with new tech and coming up with cool software hacks. It's just what I do!
+
+👨🏻‍💻 &nbsp;Right now, I'm a Software Engineer, working on some pretty neat stuff.
+
+🎓 &nbsp;Got my Bachelor's in IT and an Associate's in Computer Science. School's out, but learning never stops!
+
+🌱 &nbsp;I'm diving into blockchain these days. Who knows? I might even become a Blockchain developer soon.
+
+🍽️ &nbsp;When I'm not coding, you can find me traveling and trying out all kinds of food from around the world. Yum!
+
+💬 &nbsp;Want to chat about tech, need some help, or just want to talk about your favorite food? Hit me up anytime!
 
 <img alt="gif of the week" src="https://media.tenor.com/hWVqJl31yA8AAAAC/web-webdevelopper.gif" align="right"/>
 
